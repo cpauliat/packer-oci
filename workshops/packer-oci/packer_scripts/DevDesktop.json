@@ -3,7 +3,7 @@
       "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaaw7e6nkszrry6d5h7l6ypedgnj3lfd2eeku6fq4lq34v3r3qqmmxq",
       "my.fingerprint":"80:8d:62:02:9a:0f:95:e0:29:79:90:78:8a:4e:9d:bb",
       "my.availability_domain": "FUIs:US-ASHBURN-AD-3",
-      "my.region": "eu-frankfurt-1",
+      "my.region": "us-ashburn-1",
       "my.compartment_ocid": "ocid1.tenancy.oc1..aaaaaaaaw7e6nkszrry6d5h7l6ypedgnj3lfd2eeku6fq4lq34v3r3qqmmxq",
       "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaagthrwznnby4q32lrpayfzrc4amzrxfadxywqkec5f2k4rf2cs5ba",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
